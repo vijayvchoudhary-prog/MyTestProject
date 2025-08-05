@@ -6,6 +6,7 @@ import pages.loginPage;
 
 public class loginTest extends BaseTest {
 
+	//sample test
 	@Test
 	public void validLogin()
 	{
