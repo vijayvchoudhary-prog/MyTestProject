@@ -123,5 +123,16 @@
 				</plugin>
 			</plugins>
 		</pluginManagement>
+		
+		
+		<resources>
+        <resource>
+            <directory>src/test/java/resources</directory>
+            <includes>
+                <include>**/*.properties</include>
+            </includes>
+        </resource>
+    </resources>
+
 	</build>
 </project>
